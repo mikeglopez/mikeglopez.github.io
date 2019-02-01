@@ -1,0 +1,3 @@
+[submodule "measuredly"]
+	path = measuredly
+	url = https://github.com/mikeglopez/measuredly
