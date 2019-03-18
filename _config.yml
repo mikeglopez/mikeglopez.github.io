@@ -4,7 +4,7 @@ author: mikeglopez # You :P
 description: > # Meta description of Homepage
   A blog about JavaScript, Hack Reactor, and more
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mikeglopez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mikeglopez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
