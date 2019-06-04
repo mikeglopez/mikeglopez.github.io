@@ -9,7 +9,7 @@ When working with ES6, React, or other code that must be compiled by Webpack, it
 
 If you run into any errors, it's going to point you to a line in that confusing compiled code.
 
-![Google Chrome DevTools error](srcmap4.jpg)
+![Google Chrome DevTools error](../assets/img/posts/srcmap4.jpg)
 
 
 Using source maps solves this problem by allowing you to debug the original code. This maps the lines of code in the compiled file to the corresponding lines in the original file.
@@ -18,12 +18,12 @@ I’ll show you how to quickly generate a source map with Webpack for easier deb
 
 Let’s get started! In Google Chrome, open DevTools by clicking **command + option + i** on mac or **ctrl + shift + i** on Windows, then click on the three vertical dots on the upper right side to bring up the setting menu. Next, click on **"Settings"**.
 
-![Google Chrome DevTools settings](srcmap1.jpg)
+![Google Chrome DevTools settings](../assets/img/posts/srcmap1.jpg)
 
 
 In the **"Preferences"** tab, make sure that both **“Enable JavaScript source maps”** and **“Enable CSS source maps”** are ticked.
 
-![Google Chrome DevTools preferences tab](srcmap2.jpg)
+![Google Chrome DevTools preferences tab](../assets/img/posts/srcmap2.jpg)
 
 
 To generate source maps with Webpack running in **production**, all you have to do is add the `devtool` and `sourceMapFilename` properties to your **webpack.config.js** file.
@@ -59,18 +59,18 @@ When you run your Webpack script, it will compile your files and generate a sour
 
 For reference, here is the error without source mapping:
 
-![Google Chrome DevTools error without source map](srcmap4.jpg)
+![Google Chrome DevTools error without source map](../assets/img/posts/srcmap4.jpg)
 
 
 And you'll notice that within the **Page** tab at the top of DevTools, it only shows the compiled file.
 
-![Google Chrome DevTools files without source map](srcmap3.jpg)
+![Google Chrome DevTools files without source map](../assets/img/posts/srcmap3.jpg)
 
 
 And below is what this will look like with source mapping:
 
-![Google Chrome DevTools files with source map](srcmap5.jpg)
-![Google Chrome DevTools error with source map](srcmap6.jpg)
+![Google Chrome DevTools files with source map](../assets/img/posts/srcmap5.jpg)
+![Google Chrome DevTools error with source map](../assets/img/posts/srcmap6.jpg)
 
 
 Hopefully this is as useful to you as it has been to me!

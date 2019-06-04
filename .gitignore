@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
+assets/img/posts/filestructure*
+_posts/2019-03-19*
+_img/posts/filestructure*
