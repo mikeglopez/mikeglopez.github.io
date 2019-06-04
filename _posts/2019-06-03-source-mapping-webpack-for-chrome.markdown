@@ -3,7 +3,7 @@ layout: post
 title:  "Webpack Source Mapping for Debugging in Chrome"
 date:   2019-06-03 19:12:24 -0600
 categories: debugging
-featured-img: srcmap4
+featured-img: error
 ---
 When working with ES6, React, or other code that must be compiled by Webpack, it can be hard debugging from the browser using DevTools because instead of your original code, it displays the compiled and minified code, which can be difficult to read.
 

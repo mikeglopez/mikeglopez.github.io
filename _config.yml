@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   A blog about JavaScript, Hack Reactor, and more
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/lake_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: mikeglopez.91@gmail.com # email for form submission
 
