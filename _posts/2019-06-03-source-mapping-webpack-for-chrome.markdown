@@ -70,6 +70,7 @@ And you'll notice that within the **Page** tab at the top of DevTools, it only s
 And below is what this will look like with source mapping:
 
 ![Google Chrome DevTools files with source map](../assets/img/posts/srcmap5.jpg)
+
 ![Google Chrome DevTools error with source map](../assets/img/posts/srcmap6.jpg)
 
 
