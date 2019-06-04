@@ -39,7 +39,7 @@ module.exports = {
     sourceMapFilename: '[name].js.map',
     path: `${__dirname}/dist`
   },
-devtool: ‘source-map’
+devtool: 'source-map'
 };
 ```
 
