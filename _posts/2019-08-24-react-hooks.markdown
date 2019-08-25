@@ -19,7 +19,7 @@ Here's an example you may be familiar with, a React class component.
 This component renders a simple shopping list app.
 
 
-```javascript
+```jsx
 import React from 'react';
 import './App.css';
 
@@ -65,7 +65,7 @@ export default App;
 The functional component below produces the same app and looks much cleaner.
 
 
-```javascript
+```jsx
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
@@ -101,7 +101,7 @@ export default App;
 Let's get started!
 
 
-```javascript
+```jsx
 import React, { useState, useEffect } from 'react';
 import './App.css';
 ```
@@ -110,7 +110,7 @@ import './App.css';
 To begin, make sure you've updated to **React 16.8**. In your file, import `useState` and `useEffect`.
 
 
-```javascript
+```jsx
 function App() {
   const [list, addToList] = useState([]);
 }
@@ -122,7 +122,7 @@ Hooks can only be called from React function components. Create a function compo
 Next, you'll add the `useEffect` hook.
 
 
-```javascript
+```jsx
 useEffect(() => {
   document.title = `Shopping List: ${list.length}`;
 });
@@ -134,14 +134,14 @@ useEffect(() => {
 
 Now we're going to call the update function:
 
-```javascript
+```jsx
 const handleSubmit = (e) => {
     e.preventDefault();
     addToList([...list, document.getElementById('listItem').value]);
   }
 ```
 
-```javascript
+```jsx
   return (
     <div className="App">
       <h1>My Shopping List: {list.length} Items</h1>
