@@ -2,9 +2,9 @@
 title: Mike G. Lopez # your site title
 author: mikeglopez # You :P
 description: > # Meta description of Homepage
-  A blog about JavaScript, Hack Reactor, and more
+  A blog about JavaScript and more
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mikeglopez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mikeglopez.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -12,7 +12,7 @@ social:
   links:
     - https://twitter.com/MIKEGL0PEZ
     # - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/michael-g-lopez-694388a8/
+    - https://www.linkedin.com/in/mikeglopez/
     # - https://plus.google.com/+BenBalter
     - https://github.com/mikeglopez
     # - https://keybase.io/benbalter
@@ -21,14 +21,15 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Portfolio', link: '/portfolio'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  A blog about JavaScript, Hack Reactor, and more
+  I'm a software engineer based in Chicago, IL. I love watching my ideas come to life.
 
 hero_img: posts/lake_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: mikeglopez.91@gmail.com # email for form submission
+email: mikeglopez@me.com # email for form submission
 
 twitter_username: MIKEGL0PEZ # replace with your_twitter_username or comment to remove link from footer
 github_username:  mikeglopez # replace with your_github_username or comment to remove link from footer

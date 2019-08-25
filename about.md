@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A blog about JavaScript, Hack Reactor, and more
+A blog about JavaScript and more
