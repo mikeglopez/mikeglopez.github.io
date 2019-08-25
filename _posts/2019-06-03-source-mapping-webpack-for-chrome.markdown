@@ -44,7 +44,7 @@ devtool: 'source-map'
 ```
 
 
-If you'd like to debug in development, remove and `-d` for **development** or `-p` for **production** flags from your Webpack script and set the `devtool` property in **webpack.config.js** to `eval-source-map`. [Erik Aybar](https://erikaybar.name/webpack-source-maps-in-chrome/)
+If you'd like to debug in development, remove any `-d` (_for **development**_) or `-p` (_for **production**_) flags from your Webpack script and set the `devtool` property in **webpack.config.js** to `eval-source-map`. [Erik Aybar](https://erikaybar.name/webpack-source-maps-in-chrome/)
 
 Next, you need to add a comment with the `sourceMappingURL` to the end of your file to be compiled. This points to the source map.
 
@@ -74,4 +74,4 @@ And below is what this will look like with source mapping:
 ![Google Chrome DevTools error with source map](../assets/img/posts/srcmap6.jpg)
 
 
-Hopefully this is as useful to you as it has been to me!
+Hopefully, this is as useful to you as it has been to me!

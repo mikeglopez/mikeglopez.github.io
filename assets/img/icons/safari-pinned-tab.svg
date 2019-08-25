@@ -1,19 +1,18 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="260.000000pt" height="260.000000pt" viewBox="0 0 260.000000 260.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.11, written by Peter Selinger 2001-2013
-</metadata>
-<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M1237 1809 c-125 -29 -211 -117 -224 -228 -16 -139 56 -233 242 -315
-176 -77 225 -121 225 -201 0 -99 -70 -151 -189 -143 -80 6 -136 33 -197 94
-l-45 44 -54 -46 -54 -47 25 -33 c82 -106 249 -166 404 -144 184 26 271 118
-271 286 0 144 -62 216 -262 304 -174 76 -217 122 -198 208 10 44 34 70 78 82
-84 23 183 1 249 -56 l43 -36 48 43 c27 24 49 49 50 55 2 19 -68 75 -124 100
--89 41 -201 54 -288 33z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="260px" height="260px" viewBox="0 0 260 260" enable-background="new 0 0 260 260" xml:space="preserve">
+<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)">
+	<path d="M1237.002,1808.999c-125-28.999-211.001-116.997-224.004-227.998c-15.996-138.999,56.001-233.003,242.002-315.005
+		C1430.996,1189.004,1480,1145,1480,1065c0-99.004-70-150.996-188.999-142.998c-80,5.996-136.001,32.998-197.002,93.994l-45,44.004
+		L995,1014.004l-53.999-47.002l25-32.998C1047.998,827.998,1215,767.998,1370,790c184.004,25.996,270.996,117.998,270.996,285.996
+		c0,144.004-61.992,216.006-261.992,304.004c-174.004,76.001-217.002,122.002-198.003,207.998c10,44.004,33.999,70,77.998,82.002
+		c83.999,22.998,183.003,1.001,248.999-56.001l42.998-36.001l48.008,43.003c26.992,23.999,48.994,48.999,50,55
+		c1.992,18.999-68.008,75-124.004,100C1435.996,1817.002,1324.004,1830,1237.002,1808.999z"/>
+</g>
+<g id="We7F64_1_">
+	<image overflow="visible" width="256" height="256" id="We7F64" xlink:href="3ACAA8BF.jpg"  transform="matrix(1 0 0 1 1.5 1.5)">
+	</image>
 </g>
 </svg>
