@@ -12,8 +12,10 @@ Check the form below to see it in action! -->
 
 <!-- ### Example Formspree contact form with validation and reCaptcha -->
 
-Send me a message and let's chat! [email me at mikeglopez@me.com](mailto:{{site.email}}).
+Send me a message and let's chat!
 
 {% include form.html %}
 
 {% include modal.html %}
+
+Or [email me](mailto:{{site.email}})
