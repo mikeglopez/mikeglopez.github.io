@@ -3,13 +3,13 @@ layout: post
 title:  "React Hooks"
 date:   2019-08-24 12:04:18 -0600
 categories: react
-featured-img: error
+featured-img: react
 ---
-This will just be a quick introduction into using React hooks. Hooks are a new addition in React 16.8 that let you use state while avoiding writing classes. _Hooks are optional! As per the React documentation, there are no plans to remove classes from React._
+This will just be a quick introduction into using React hooks. Hooks are a new addition in React 16.8 that lets you use state while avoiding writing classes. _Hooks are optional! As per the React documentation, there are no plans to remove classes from React._
 
 You may be wondering what the point of using hooks is if there are no breaking changes. Hooks are useful for many reasons.
 
-* Avoid the issue of creating a class component soley to handle state and data for the functional components it renders.
+* Avoid the issue of creating a class component solely to handle state and data for the functional components it renders.
 * Code using hooks minifies better than code using class components
 * If you write a function component and realize you need to add state, you can use hooks instead of rewriting the function as a class
 * Make it easy to reuse stateful logic, not state itself, so you can keep your code DRY _Don't Repeat Yourself_
