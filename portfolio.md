@@ -8,7 +8,7 @@ These are some of the most recent full-stack applications I've worked on.
 <br>
 <br>
 <br>
-________
+__________
 <br>
 <br>
 <br>
@@ -17,11 +17,12 @@ ________
 <br>
 A taco discovery app for connecting users to the nearest tacos
 (MongoDB, Express, React, Node, Styled-Components)
+<br>
 [Github](https://github.com/mikeglopez/rpt12-mvp-project/)
 <br>
 <br>
 <br>
-________
+__________
 <br>
 <br>
 <br>
@@ -30,8 +31,9 @@ ________
 <br>
 A home description microservice on an Airbnb clone
 (MongoDB, Express, React, Node, Styled-Components, Docker)
+<br>
 [Github](https://github.com/mikeglopez/rpt12-mvp-project/)
 <br>
 <br>
 <br>
-________
+__________
