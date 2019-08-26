@@ -9,7 +9,6 @@ As a Full-Stack Software Engineer, I love coding and figuring out new solutions 
 I’ve had a passion for coding from a very young age. With my older brother’s help, I started building HTML websites for fun when I was a kid. I’m really interested in creating applications that feature beautiful user interfaces and intuitive user experiences.
 <br>
 <hr>
-<br>
 * Front-End: JavaScript (ES6, ES5, JSX), React, HTML, CSS
 * Back-End: Node, Express, RESTful API Development
 * Databases: MongoDB, MySQL, SQLite
