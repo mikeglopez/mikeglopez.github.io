@@ -8,7 +8,7 @@ These are some of the most recent full-stack applications I've worked on.
 <br>
 <br>
 <br>
----
+________
 <br>
 <br>
 <br>
@@ -21,7 +21,7 @@ A taco discovery app for connecting users to the nearest tacos
 <br>
 <br>
 <br>
----
+________
 <br>
 <br>
 <br>
@@ -34,4 +34,4 @@ A home description microservice on an Airbnb clone
 <br>
 <br>
 <br>
----
+________
